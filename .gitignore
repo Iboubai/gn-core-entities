@@ -4,3 +4,6 @@
 /gn-entities-core/obj/
 /.vs/gn-entities-core/FileContentIndex/
 /.vs/gn-entities-core/DesignTimeBuild/
+/.vs/
+/gn-core-entities/bin/
+/gn-core-entities/obj/
